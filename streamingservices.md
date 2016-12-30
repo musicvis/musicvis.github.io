@@ -20,6 +20,9 @@ Mixtapes
 
 # Tidal
 
+Exclusives
+Sound quality?
+
 # Pandora Premium
 
 Coming soon in 2017
