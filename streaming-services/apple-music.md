@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hadn't started iTunes in a long time
 
 Where is Apple Music? Googled for it since I didn't see it in iTunes
@@ -70,3 +71,6 @@ I would help correct it if they offered any tools like Rap Genius where I could 
 
 Would be cool if it highlighted the lyrics karaoke style as song was playing
 
+Unique / Distinguishing
+
+Siri - useful in car, desktop integration with OS X

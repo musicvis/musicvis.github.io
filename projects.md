@@ -26,3 +26,10 @@
     -> profile, friends, shows what you have in common with specific friends
     -> message a user on the site, commenting wall
     -> users year in music, love the visualizations
+* hypem
+* music apps that aggregate many sources, desktop library, etc. muzap, younity, soundweaver
+* open source apps for personal music collection
+* open source libraries and dev kits
+* players that use dropbox, google drive, onedrive, box
+* share track to feed firebase
+* bandcamp

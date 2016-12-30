@@ -7,7 +7,8 @@
 
 # Hardware
 
-* Voice
+* Voice, Alexa, Siri, Google Home
+* Chromecast
 
 # Software
 

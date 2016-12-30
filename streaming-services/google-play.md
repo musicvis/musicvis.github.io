@@ -12,3 +12,9 @@ googleplay
     * Huge graphic of the Weeknd at top, no playlist on the screen
 * Background play works very well while navigating rest of the web player
 * Colors change around too frequently.
+
+# Distinguishing
+
+* Hard press on Mobile icon
+* Google Home?
+* I'm feeling lucky
