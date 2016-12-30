@@ -34,6 +34,7 @@ Sound quality?
 # Pandora Premium
 
 Coming soon in 2017
+Machine Learning? Most personal, playlists for each individual based on data, thumbs
 
 # Amazon Music
 Comes with Amazon Prime
