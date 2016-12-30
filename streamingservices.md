@@ -1,7 +1,13 @@
+# Points to Consider
+
+* Clients / apps
+* Developer API's
+
 # Google Play Music
 
-YouTube Red - independent mixtapes, content, video
-Upload to Cloud
+1. YouTube Red - independent mixtapes, content, video
+1. Upload to Cloud
+1. Developers
 
 # Spotify
 
@@ -31,3 +37,4 @@ Coming soon in 2017
 Comes with Amazon Prime
 
 Should an avid fan sign up for 2?
+
