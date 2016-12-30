@@ -35,7 +35,7 @@ Sound quality?
 
 Coming soon in 2017
 Machine Learning? Most personal, playlists for each individual based on data, thumbs
-Seems to be the answer to Spotify, add similar songs to existing playlist
+Seems to be the answer to Spotify, add similar songs to existing playlist, offline access
 
 # Amazon Music
 Comes with Amazon Prime
