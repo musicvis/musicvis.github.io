@@ -10,3 +10,10 @@
 * youtube channels with music reviews and reactions
 * music blogs with reviews, metacritic, etc.
 * vinyl -> shazam -> scrobble
+* hypem
+* music apps that aggregate many sources, desktop library, etc. muzap, younity, soundweaver
+* open source apps for personal music collection
+* open source libraries and dev kits
+* players that use dropbox, google drive, onedrive, box
+* share track to feed firebase
+* bandcamp
