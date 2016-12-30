@@ -2,6 +2,7 @@
 
 * Clients / apps
 * Developer API's
+* Hardware / Echo, 3rd party speakers
 
 # Google Play Music
 
