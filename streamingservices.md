@@ -27,6 +27,14 @@
 1. Upload to Cloud
 1. Developers
 1. Personal Collection
+1. Google Play Music Manager - functionality similar to Google Drive or Dropbox, can pick one folder and it goes to Google Play, gave me a status bar icon to go to player, so I can save a YouTube song to this folder and it will be in my google play account
+1. Google home? Alexa / echo?
+
+Scrobbling
+
+https://chrome.google.com/webstore/detail/google-play-lastfm-scrobb/llpepekkleeoeiloijhcafgpjdnhhcbl/related?hl=en-US
+
+Great app here, simple, add extension, click headphones, connect to spotify while you are logged in, scrobbling works
 
 # Spotify
 
@@ -42,6 +50,9 @@ Discover Weekly - how is this generated?
 Facebook integration
 Playlist collaboration
 Free version
+Spotify Sessions
+Spotify House at SXSW
+3rd party developer apps
 
 # Apple Music
 
@@ -50,6 +61,8 @@ Is this on Android or just iPhone
 itunes match
 siri
 try android apps for HTC One and Nexus 6P, Tablet, Chromebook, Linux
+iTunes
+Listening on iPad
 
 # Tidal
 
@@ -70,6 +83,20 @@ Seems to be the answer to Spotify, add similar songs to existing playlist, offli
 
 # Amazon Music
 Comes with Amazon Prime
+Music Unlimited vs. Prime Music
+-> Prime music only has 2 million songs, music unlimited has tens of millions
+-> test out library
+Interesting Alexa / Echo features
+-> AutoRip vinyl purchases 
+
+UI is nicer than I expected
+Did not have Vision of Disorder - Self Titled
+
+Can I listen to mobile app for free?
+
+"Customers" who listened to this song also listened to - seems a bit influenced by the ecommerce. Other apps just call us listeners.
+
+Desktop - Amazon Music For Mac
 
 Should an avid fan sign up for 2?
 
@@ -80,3 +107,9 @@ Should an avid fan sign up for 2?
 1. Radio
 1. Cloud / Music Locker
 1. Library size
+1. Tablet use (iPad and Android tablet), Chromebook use, Surface Use, linux use, Macbook Pro, iMac large screen
+
+# Screenshots
+
+1. UI's for web, desktop, tablet, mobile
+1. Maybe video instead
