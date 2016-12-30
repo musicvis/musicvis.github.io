@@ -31,9 +31,17 @@
 # Spotify
 
 Last.fm
-Offline Access
+Offline Access - playlists
+Discovery
+Artist Following
+Playlist creation
+Playlist browsing
 Phone App
 Friends are there, users that I follow
+Discover Weekly - how is this generated?
+Facebook integration
+Playlist collaboration
+Free version
 
 # Apple Music
 
@@ -43,14 +51,16 @@ itunes match
 siri
 try android apps for HTC One and Nexus 6P, Tablet, Chromebook, Linux
 
-# Soundcloud
-
-Mixtapes
-
 # Tidal
 
 Exclusives
-Sound quality?
+Sound quality? Hifi
+Video content
+Prince and Neil Young
+Ticket presales
+Under the radar artists?
+Web Player
+Mobile app
 
 # Pandora Premium
 
@@ -63,3 +73,10 @@ Comes with Amazon Prime
 
 Should an avid fan sign up for 2?
 
+# Other features
+
+1. Podcasts
+1. Music Videos
+1. Radio
+1. Cloud / Music Locker
+1. Library size
