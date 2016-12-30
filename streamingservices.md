@@ -2,7 +2,8 @@
 
 * Clients / apps
 * Developer API's
-* Hardware / Echo, 3rd party speakers
+* Hardware / Echo, 3rd party speakers, Chromecast, Fire TV
+* Ports
 
 # Google Play Music
 
