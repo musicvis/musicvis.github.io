@@ -36,6 +36,8 @@ https://chrome.google.com/webstore/detail/google-play-lastfm-scrobb/llpepekkleeo
 
 Great app here, simple, add extension, click headphones, connect to spotify while you are logged in, scrobbling works
 
+Scroblr.fm for web players, amazon prime music
+
 # Spotify
 
 Last.fm
